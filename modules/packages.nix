@@ -17,6 +17,7 @@
     discord
     brave
     feishin
+    pavucontrol
   ];
 
 }
