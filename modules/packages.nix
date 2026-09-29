@@ -10,8 +10,6 @@
     nano
     kitty
     ffmpeg
-    kdePackages.filelight
-    kdePackages.partitionmanager
     cifs-utils
     unrar
     proton-vpn-cli
