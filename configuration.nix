@@ -16,6 +16,7 @@
       ./modules/nvidia.nix
       ./modules/packages.nix
       ./modules/system.nix
+      ./modules/caelestia.nix
     ];
 
   # Use the systemd-boot EFI boot loader.
@@ -45,9 +46,8 @@
   # You can disable this if you're only using the Wayland session.
   services.xserver.enable = true;
 
-  # Enable the KDE Plasma Desktop Environment.
+  # Use SDDM as the login manager for the Hyprland session.
   services.displayManager.sddm.enable = true;
-  services.desktopManager.plasma6.enable = true;
 
   # Configure keymap in X11
   services.xserver.xkb = {

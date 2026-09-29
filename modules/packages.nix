@@ -10,13 +10,14 @@
     nano
     kitty
     ffmpeg
-    kdePackages.filelight
-    kdePackages.partitionmanager
     cifs-utils
     unrar
-    discord
-    brave
-    feishin
+    proton-vpn-cli
+    gearlever
+    nicotine-plus
+    rmpc
+    mpd
+    mpc
     pavucontrol
     fladder
   ];
