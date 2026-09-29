@@ -15,7 +15,9 @@
     proton-vpn-cli
     gearlever
     nicotine-plus
-    feishin
+    rmpc
+    mpd
+    mpc
     pavucontrol
     fladder
   ];
