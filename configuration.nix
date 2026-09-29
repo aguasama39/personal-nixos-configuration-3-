@@ -46,9 +46,8 @@
   # You can disable this if you're only using the Wayland session.
   services.xserver.enable = true;
 
-  # Keep KDE/SDDM available as a fallback while Hyprland + Caelestia is tested.
+  # Use SDDM as the login manager for the Hyprland session.
   services.displayManager.sddm.enable = true;
-  services.desktopManager.plasma6.enable = true;
 
   # Configure keymap in X11
   services.xserver.xkb = {
