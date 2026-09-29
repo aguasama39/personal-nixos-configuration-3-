@@ -1,4 +1,4 @@
-{ config, pkgs, ... }:
+{ config, pkgs, inputs, ... }:
 
 {
   imports = [
@@ -6,6 +6,7 @@
     ./kitty.nix
     ./git.nix
     ./fastfetch.nix
+    ./caelestia.nix
   ];
 
   home.username = "paulcho";
