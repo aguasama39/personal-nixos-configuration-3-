@@ -15,7 +15,7 @@
     cifs-utils
     unrar
     proton-vpn-cli
-    brave
+    gearlever
     feishin
     pavucontrol
     fladder
