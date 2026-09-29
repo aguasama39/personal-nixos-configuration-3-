@@ -14,7 +14,7 @@
     kdePackages.partitionmanager
     cifs-utils
     unrar
-    discord
+    proton-vpn-cli
     brave
     feishin
     pavucontrol
