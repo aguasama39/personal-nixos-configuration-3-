@@ -16,6 +16,7 @@
     unrar
     proton-vpn-cli
     gearlever
+    nicotine-plus
     feishin
     pavucontrol
     fladder
